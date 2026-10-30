@@ -1,0 +1,98 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3076 >>
+stream
+BT /F1 11 Tf 40 760 Td 12 TL
+(Erasure-Coded File Transfer) Tj T*
+(Computer Networks Mini Project) Tj T*
+() Tj T*
+(The file is split into k blocks, encoded over GF(256),) Tj T*
+(sent over UDP and rebuilt from any k independent packets.) Tj T*
+() Tj T*
+(Packet 1: a random mix of every block.) Tj T*
+(Packet 2: a random mix of every block.) Tj T*
+(Packet 3: a random mix of every block.) Tj T*
+(Packet 4: a random mix of every block.) Tj T*
+(Packet 5: a random mix of every block.) Tj T*
+(Packet 6: a random mix of every block.) Tj T*
+(Packet 7: a random mix of every block.) Tj T*
+(Packet 8: a random mix of every block.) Tj T*
+(Packet 9: a random mix of every block.) Tj T*
+(Packet 10: a random mix of every block.) Tj T*
+(Packet 11: a random mix of every block.) Tj T*
+(Packet 12: a random mix of every block.) Tj T*
+(Packet 13: a random mix of every block.) Tj T*
+(Packet 14: a random mix of every block.) Tj T*
+(Packet 15: a random mix of every block.) Tj T*
+(Packet 16: a random mix of every block.) Tj T*
+(Packet 17: a random mix of every block.) Tj T*
+(Packet 18: a random mix of every block.) Tj T*
+(Packet 19: a random mix of every block.) Tj T*
+(Packet 20: a random mix of every block.) Tj T*
+(Packet 21: a random mix of every block.) Tj T*
+(Packet 22: a random mix of every block.) Tj T*
+(Packet 23: a random mix of every block.) Tj T*
+(Packet 24: a random mix of every block.) Tj T*
+(Packet 25: a random mix of every block.) Tj T*
+(Packet 26: a random mix of every block.) Tj T*
+(Packet 27: a random mix of every block.) Tj T*
+(Packet 28: a random mix of every block.) Tj T*
+(Packet 29: a random mix of every block.) Tj T*
+(Packet 30: a random mix of every block.) Tj T*
+(Packet 31: a random mix of every block.) Tj T*
+(Packet 32: a random mix of every block.) Tj T*
+(Packet 33: a random mix of every block.) Tj T*
+(Packet 34: a random mix of every block.) Tj T*
+(Packet 35: a random mix of every block.) Tj T*
+(Packet 36: a random mix of every block.) Tj T*
+(Packet 37: a random mix of every block.) Tj T*
+(Packet 38: a random mix of every block.) Tj T*
+(Packet 39: a random mix of every block.) Tj T*
+(Packet 40: a random mix of every block.) Tj T*
+(Packet 41: a random mix of every block.) Tj T*
+(Packet 42: a random mix of every block.) Tj T*
+(Packet 43: a random mix of every block.) Tj T*
+(Packet 44: a random mix of every block.) Tj T*
+(Packet 45: a random mix of every block.) Tj T*
+(Packet 46: a random mix of every block.) Tj T*
+(Packet 47: a random mix of every block.) Tj T*
+(Packet 48: a random mix of every block.) Tj T*
+(Packet 49: a random mix of every block.) Tj T*
+(Packet 50: a random mix of every block.) Tj T*
+(Packet 51: a random mix of every block.) Tj T*
+(Packet 52: a random mix of every block.) Tj T*
+(Packet 53: a random mix of every block.) Tj T*
+(Packet 54: a random mix of every block.) Tj T*
+(Packet 55: a random mix of every block.) Tj T*
+(Packet 56: a random mix of every block.) Tj T*
+(Packet 57: a random mix of every block.) Tj T*
+(Packet 58: a random mix of every block.) Tj T*
+(Packet 59: a random mix of every block.) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000003369 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3439
+%%EOF
